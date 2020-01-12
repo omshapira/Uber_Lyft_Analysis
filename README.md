@@ -1,4 +1,4 @@
-# Uber Lyft Analysis
+# Uber and Lyft Analysis
 
 The primary purpose of this project was to implement several machine learning algorithms for predicting the price of Uber and Lyft ride fares. Testing of various algorithms would help me uncover the relative impact of different predictor variables on price. The models I explored in-depth were simple/multivariate/polynomial regression, k-Nearest Neighbor Regression, Random Forest Regression, and Gradient-Boosted Regression. I also briefly tested Decision Trees and Ada-Boost Regression. Along the way, I performed various statistical tests on my models, such as the p-value test for model variable selection, and the Chow Test for evaluating coefficient variation in regression models used on weekday vs. weekend rides.
 
